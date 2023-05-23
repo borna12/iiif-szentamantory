@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4000,
+    "height" : 6652
+  }, {
+    "width" : 6000,
+    "height" : 9978
+  }, {
+    "width" : 12000,
+    "height" : 19956
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 12000,
+  "@id" : "https://retrogram.jezik.hr/gramatike/szentamantory/iiif/42",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 19956
+}
